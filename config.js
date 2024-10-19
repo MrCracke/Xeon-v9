@@ -7,9 +7,9 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['916909137213']
-global.ownMain = '916909137213'
-global.NamaOwner = '🦄드림 가이 Xeon'
+global.owner = ['94759900301']
+global.ownMain = '94759900301'
+global.NamaOwner = 'PODI DAFA'
 global.sessionName = 'session'
 global.connect = true // Change To False If You Want To Use Qr Code
 global.namabot = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ'
